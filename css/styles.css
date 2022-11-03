@@ -75,3 +75,7 @@ hr{
     width: 60%;
     border-width: 5px;
 }
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 20px 0 50px 0;
+}
