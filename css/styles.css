@@ -69,3 +69,9 @@ h3{
     position:relative;
     bottom:-300px; left:800px;
 }
+hr{
+    border-style: dotted none none;
+    height: 0px;
+    width: 60%;
+    border-width: 5px;
+}
