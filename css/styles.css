@@ -24,11 +24,11 @@ h3{
 }
 .top-cloud{
      position: absolute;
-     top: 70px; right:300px
+     top: 100px; right:300px
 }
 .bottom-cloud{
      position: absolute;
-     bottom: 400px;left: 300px;
+     bottom: 100px;left: 300px;
 }
 .middle-container{
         background-color: #A8E890;
