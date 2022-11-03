@@ -4,12 +4,13 @@ body{
 }
 
 h1{
+    font-size: 562.5%;
     margin:0;
     font-family: 'Sacramento',cursive;
-    text-size-adjust: 100px;
 }
 h2{
     font-family: 'Merriweather Sans', sans-serif;
+    font-size: 200%;
     margin:0;
 }
 h3{
